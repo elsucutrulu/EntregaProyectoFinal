@@ -1,0 +1,12 @@
+$margen: 15px;
+$ancho: auto;
+$alto: auto;
+$max-ancho: 60px;
+$flexdirect: row;
+$flexwrap: nowrap;
+$itemalign: center;
+
+.redessociales {
+    margin: $margen;
+    width: $ancho;
+}
